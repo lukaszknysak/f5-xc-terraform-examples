@@ -79,7 +79,7 @@ jobs:
     env:
       TF_VAR_name: "teachable"
       TF_VAR_prefix: ""
-      TF_CLOUD_WORKSPACE_HELLO_WORLD: "hello-world-netoro"
+      TF_CLOUD_WORKSPACE_HELLO_WORLD: "hello-world"
       TF_CLOUD_WORKSPACE_XC_CREDENTIALS: "xc-credentials"
       TF_CLOUD_WORKSPACE_AZURE_CREDENTIALS: "azure-cloud-credentials"
       TF_CLOUD_WORKSPACE_AWS_CREDENTIALS: "aws-cloud-credentials"
